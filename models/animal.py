@@ -12,6 +12,3 @@ class Animal():
         self.customer_id = customer_id
         self.location = None
         self.customer = None
-
-
-new_animal = Animal(1, "Snickers", "Dog", "Recreation", 1, 4)
